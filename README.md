@@ -1,6 +1,6 @@
 # ER-Bridge
 
-Numerical calculations for "An Einstein–Rosen bridge in the holographic dual of a spherically expanding fluid"
+Numerical calculations for "*An Einstein–Rosen bridge in the holographic dual of a spherically expanding fluid*"
 (N. Bilić and D. Tolic, in preparation): horizons, throat, extremal surfaces and the area law.
 
 <img src="figures/bridge.png" alt="The Einstein–Rosen bridge: transverse radius against proper distance from the throat, and the surface of revolution" width="760">
