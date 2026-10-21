@@ -13,3 +13,7 @@ python ER_bridge.py           # all sections; python ER_bridge.py 1 3 7 for sele
 python area_law_data.py       # data for Fig. 2
 python area_law_plot.py       # Fig. 2
 ```
+
+## License
+
+MIT
